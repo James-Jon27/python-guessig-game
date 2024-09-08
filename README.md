@@ -2,9 +2,9 @@
 
 ## Games Made So far
 
-[] Tic Tac Toe
-[x] Guessing Game
-[] Hangman
+- [] Tic Tac Toe
+- [x] Guessing Game
+- [] Hangman
 
 ## Usage
 
